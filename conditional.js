@@ -5,7 +5,7 @@ function checkGrade(grade){
         return"your grade is B"
         
     } else if(grade>= 50){
-        return"your grade is c"
+        return"your grade is cc"
 
     }else{
         return"who are you "
